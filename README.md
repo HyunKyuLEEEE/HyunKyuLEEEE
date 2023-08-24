@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HyunKyuLee!&fontAlign=80&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HyunKyuLee&fontAlign=50&fontAlignY=30&color=gradient)
 ## 🌟 About Me 
 - ### Languages & Skills🛠️
 <div align="left">
