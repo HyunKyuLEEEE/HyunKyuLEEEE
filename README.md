@@ -1,6 +1,7 @@
-### Hi there 👋
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=HyunKyu%20Lee!&fontAlign=80&fontAlignY=40&color=gradient" />
+## 🌟 About Me 
+- ### Languages & Skills🛠️
+
 <!--
 **HyunKyuLEEEE/HyunKyuLEEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
