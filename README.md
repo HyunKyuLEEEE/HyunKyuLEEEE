@@ -19,7 +19,7 @@
 - ### Study 📓 :
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <br>
   Repository -> https://github.com/HyunKyuLEEEE/java_1024 <br>
-  <img src="https://img.shields.io/badge/Vue.js-41B884?style=for-the-badge&logo=java&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/Vue.js-41B884?style=for-the-badge&logo=vue.js&logoColor=white"> <br>
   Repository -> https://github.com/HyunKyuLEEEE/vue_0826
   
 - ### Problem Solving ⌨ :
