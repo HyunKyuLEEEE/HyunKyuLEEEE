@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/Vue.js-41B884?style=for-the-badge&logo=vue.js&logoColor=white"> <br>
   Repository -> https://github.com/HyunKyuLEEEE/vue_0826
   
-- ### Problem Solving ⌨ :
-  Repository -> 
+- ### Coding Test ⌨ :
+  Repository -> https://github.com/HyunKyuLEEEE/CodingTest
 <!--
 **HyunKyuLEEEE/HyunKyuLEEEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
